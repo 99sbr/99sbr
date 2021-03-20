@@ -15,4 +15,6 @@
   Part time Quoran and enjoy some of my time watching TV Series. A Marvel Fan. <br />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=99sbr&show_icons=true&theme=gotham" alt="99sbr" />
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=99sbr&show_icons=true&theme=gotham" alt="99sbr" />
