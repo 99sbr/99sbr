@@ -21,13 +21,13 @@
 
 ```python
 hyperparameters = {
-  pronouns: "he" | "him",
+  pronouns: 'he' | 'him',
   code: [Python, Pyspark, R, Scala],
   tools: [Elasticsearch, Mongodb, FastAPI, Flask,  Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  area of expertise: ["Document - Computer Vision", "Object Detection",
-                      "Named Entity Recognition", "Question-Answering Systems",
-                      "Text Generation and Summarisation"]
+  architecture: [microservices, serverless,  event-driven, design system pattern],
+  cloud ☁️: ['AWS-EC2', 'AWS-Elasticsearch', 'AWS-Lambda', 'AWS-Sagemaker'],
+  area of expertise: ["Machine Learning", "Unsupervised - Topic Modelling, Clustering, KNN","Document - Computer Vision", "Object Detection",
+                      "Named Entity Recognition", "Question-Answering Systems","Text Generation and Summarisation", "Neural - Semantic Search"]
 }
 ```
 
