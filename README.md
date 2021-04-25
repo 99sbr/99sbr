@@ -26,9 +26,9 @@ hyperparameters = {
   tools ⚒: ['Elasticsearch', 'Mongodb', 'FastAPI', 'Flask',  'Docker'],
   architecture 👨🏻‍🏫: ['microservices', 'serverless',  'event-driven', 'design system pattern'],
   cloud ☁️: ['AWS-EC2', 'AWS-Elasticsearch', 'AWS-Lambda', 'AWS-Sagemaker'],
-  area of expertise: [Machine Learning, Unsupervised - Topic Modelling, Clustering, KNN,Document - Computer Vision,
-                      Object Detection", Named Entity Recognition", Question-Answering Systems,
-                      Text Generation and Summarisation", Neural - Semantic Search"]
+  area of expertise: ['Machine Learning', 'Unsupervised - Topic Modelling, Clustering, KNN','Document - Computer Vision',
+                      'Object Detection', 'Named Entity Recognition', 'Question-Answering Systems',
+                      'Text Generation and Summarisation', 'Neural - Semantic Search']
 }
 ```
 
