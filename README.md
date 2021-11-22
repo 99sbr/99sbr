@@ -23,12 +23,12 @@
 hyperparameters = {
   pronouns: 'he' | 'him',
   code 👨🏼‍💻: ['Python', 'Pyspark', 'R', 'Scala'],
-  tools ⚒: ['Elasticsearch', 'Mongodb', 'FastAPI', 'Flask',  'Docker'],
+  tools ⚒: ['Elasticsearch', 'Mongodb/Cassandra/Redshift', 'FastAPI/Flask',  'Docker'],
   architecture 👨🏻‍🏫: ['microservices', 'serverless',  'event-driven', 'design system pattern'],
-  cloud ☁️: ['AWS-EC2', 'AWS-Elasticsearch', 'AWS-Lambda', 'AWS-Sagemaker'],
-  area of expertise: ['Machine Learning', 'Unsupervised - Topic Modelling, Clustering, KNN','Document - Computer Vision',
+  cloud ☁️: ['AWS-EC2', 'AWS-Elasticsearch', 'AWS-Lambda', 'AWS-Sagemaker','Azure'],
+  area of expertise: ['Unsupervised - Topic Modelling, Clustering, KNN','Document - Computer Vision',
                       'Object Detection', 'Named Entity Recognition', 'Question-Answering Systems',
-                      'Text Generation and Summarisation', 'Neural - Semantic Search']
+                      'Text Generation and Summarisation', 'Neural - Semantic Search','Reinforcement Learning - Qlearning']
 }
 ```
 
