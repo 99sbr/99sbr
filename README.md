@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://app.daily.dev/99sbr"><img src="https://api.daily.dev/devcards/5d9e6d46e36b455fad919cf4ca654a62.png?r=lwl" width="400" alt="Subir Verma's Dev Card"/></a>
 
 <a href="https://www.linkedin.com/in/sbrvrm/">
   <img align="left" alt="Subir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
